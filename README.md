@@ -41,8 +41,9 @@
 ---
 ## **Soft skills**
 ### **Language**
-# Russian - native 
-# English - Upper-Intermediate
+
+- Russian - native 
+- English - Upper-Intermediate
 
 
 
