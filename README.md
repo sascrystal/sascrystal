@@ -40,6 +40,13 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+---
+
+
+### **Language**
+Russian - native 
+English - Upper-Intermediate
+
 
 ---
 
