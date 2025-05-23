@@ -26,11 +26,6 @@
 ### **System contol**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
----
-
-### **Framework**
-![libGDX](https://img.shields.io/badge/libGDX-000000?style=for-the-badge&logo=java&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
