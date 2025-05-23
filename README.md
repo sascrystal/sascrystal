@@ -28,10 +28,13 @@
 
 ---
 
+### **Database**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+---
 
 
 ## 📊 **Statistic**  
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sascrystal&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sascrystal&layout=compact&theme=radical)  
 
