@@ -35,11 +35,15 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+## **Virtual Boxes**
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-
+---
+## **Soft skills**
 ### **Language**
-Russian - native 
-English - Upper-Intermediate
+# Russian - native 
+# English - Upper-Intermediate
+
 
 
 ---
@@ -47,4 +51,6 @@ English - Upper-Intermediate
 ## 📊 **Statistic**  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sascrystal&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sascrystal&layout=compact&theme=radical)  
+
+
 
