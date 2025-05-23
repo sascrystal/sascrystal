@@ -12,12 +12,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AstraLinux](https://img.shields.io/badge/AstraLinux-ffffff?style=for-the-badge&logo=astralinux&logoColor=blue)  
 
-- Работаю в **Linux** (Ubuntu, Arch) и **Windows**.  
-- Опыт с **AstraLinux** (российский дистрибутив для гос. структур).  
-
 ### **Системы контроля версий**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-- **Git**: GitHub/GitLab, работа в команде, CI/CD.  
 
 ---
 
