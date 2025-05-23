@@ -8,6 +8,12 @@
 
 ---
 
+### **Framework**
+![libGDX](https://img.shields.io/badge/libGDX-000000?style=for-the-badge&logo=java&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+---
 
 ### **Operating systems**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,6 +39,14 @@
 
 ---
 
+### **IDES**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+---
 
 ## 📊 **Statistic**  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sascrystal&show_icons=true&theme=radical)  
