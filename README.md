@@ -10,6 +10,7 @@
 ![libGDX](https://img.shields.io/badge/libGDX-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-A4A4A4?style=for-the-badge&logo=lombok&logoColor=white)
 
 ### **Operating systems**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
